@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled 
+7983d4a640292119efbbcba44e403be5f3c0cd67 refs/remotes/origin/master
+634b1d2e1ae18ee5b4922dba53b1e2b8e0a66d5d refs/tags/v1.0.0
+11ef2fc21ddce05c2fb453c2f7fb57822bfc26f3 refs/tags/v1.1.0
+f6b31c0bc6bc427e74856029210f0d8f652d7afd refs/tags/v1.2.0
+041eb3c4840c1d73e1ea574eff3dedd5ed28d4d2 refs/tags/v1.3.0
+a28f3164e2bb92e8b00901519c6ab1430b384c74 refs/tags/v1.4.0
+628b6340bfcc1f8c31ef9ad279f4c57275660e88 refs/tags/v1.5.0
+a9af9bdf9cc1f97ee6a262dbd801d0cdac97a8c8 refs/tags/v1.6.0
+cbeb09954b5c87ba85dbc2c6331589baa542da4c refs/tags/v1.6.1
+f6236484c753059935dcd1487bb725fec8f9823c refs/tags/v1.6.2
+2ca3b6805f53cbffc40d7fbe875857f515b1e477 refs/tags/v1.6.3
+fdf92cfab750bc3f484eb8ee98946361891f9f16 refs/tags/v1.6.4
+5a5822d8af17b0c64e92c718ce1ddc80228b1ab3 refs/tags/v1.6.5
+e3cebbf2a46ae01f8ce56250416a426121003b76 refs/tags/v1.6.6
+9639b36959094500b1bd519b39b581def5d98e17 refs/tags/v1.6.7
